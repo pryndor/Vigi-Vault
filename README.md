@@ -4,6 +4,8 @@ We welcome contributors
 # Our objective
 Our primary objective in undertaking this open-source project is to provide a cost-effective database solution for companies, as the current costs associated with database management can significantly impact the pricing of drugs in the market. By offering a low-cost database solution, we hope to contribute to reducing the overall cost of drugs in the local market. We plan to achieve this by establishing agreements with companies that require our database for their processing needs.
 
+I aim to develop a more robust and secure solution. To achieve automation, I believe Python is the best programming language, but please correct me if I’m wrong. I want to start the project myself first, and if you’re willing to contribute, I would greatly appreciate your help since I am still a beginner.
+
 # Pharmacovigilance-clinical-database.
 Welcome everyone in new development.
 Our ultimate goal is to offer an affordable and efficient database solution.
